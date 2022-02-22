@@ -46,3 +46,8 @@ TermSocket.open: Opened 1
 [I 19:12:39.555 NotebookApp] Saving file at /G1.ipynb
 [I 19:12:40.992 NotebookApp] Saving file at /requirements.txt
 [I 19:16:15.722 NotebookApp] Saving file at /requirements.txt
+[W 19:26:39.959 NotebookApp] Culling 'idle' kernel 'python3' (c5ed5dab-bff4-4d61-aca6-087bde87f380) with 2 connections due to 641 seconds of inactivity.
+[I 19:26:39.961 NotebookApp] Kernel shutdown: c5ed5dab-bff4-4d61-aca6-087bde87f380
+[I 2022-02-22 19:42:48.341 LabApp] Build is up to date
+/srv/conda/envs/notebook/lib/python3.7/json/encoder.py:257: UserWarning: date_default is deprecated since jupyter_client 7.0.0. Use jupyter_client.jsonutil.json_default.
+  return _iterencode(o, 0)
